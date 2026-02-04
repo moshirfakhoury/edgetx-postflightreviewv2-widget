@@ -1,11 +1,12 @@
-Overview:
+Overview
+
 Post Flight Review V2 is an enhanced version of the original Post Flight Review widget, built on the same proven telemetry tracking logic but redesigned with a more user-friendly and visually intuitive interface. This EdgeTX Lua widget helps pilots analyze and review flight performance after landing by monitoring up to eight telemetry parameters and recording their minimum and maximum values throughout the flight.
 
 Two additional inputs can be assigned to logical states such as arm or motor status, making it easy to confirm aircraft behavior during operation. Unlike live telemetry screens, the widget retains captured data even after the flight battery is disconnected, allowing for reliable post-flight analysis. All values are stored in RAM and reset only when the transmitter is powered off, ensuring each full flight session can be reviewed without interruption.
 
 With its clearer layout and at-a-glance presentation, Post Flight Review V2 makes performance monitoring, troubleshooting, and flight logging faster and more convenient than ever.
 
-Features:
+Features
 - Supports up to 8 telemetry parameters, showing min and max values for each.
 - Two parameters can be assigned as logical/binary values for switches, arm or custom conditions.
 - Persistent telemetry data: values remain even if the flight battery is disconnected.
